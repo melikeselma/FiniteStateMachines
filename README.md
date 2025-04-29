@@ -3,7 +3,7 @@
 ![Finite State Machine](./images/model.jpg)
 
 ## Overview
-This project is an implementation of a Finite State Machine (FSM) in Java, using object-oriented programming principles. The FSM supports:
+This project is an implementation of a Finite State Machine (FSM) in Java & Maven, using object-oriented programming principles. The FSM supports:
 
 - State management
 - Transition validation 
