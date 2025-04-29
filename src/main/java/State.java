@@ -14,7 +14,6 @@ public class State {
 
     @Override
     public boolean equals(Object o) {
-        return false;
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         State state = (State) o;
